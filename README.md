@@ -1,2 +1,3 @@
-# prime-music-streaming-cg03
+# Prime Music Streaming Cg03
+
 A repository to test GitHub automation for issue management.
